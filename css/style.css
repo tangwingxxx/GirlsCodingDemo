@@ -1,0 +1,14 @@
+.div-inline{
+     display:inline;
+} 
+div{
+    text-align:center;
+}
+.div-inline{
+    margin-bottom:20px;
+}
+.ddd{
+    text-align: left;
+    width: 850px;
+    margin: 10px auto;
+}
